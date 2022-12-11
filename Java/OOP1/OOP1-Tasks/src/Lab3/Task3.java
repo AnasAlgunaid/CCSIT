@@ -1,3 +1,12 @@
+/*
+----------------------- Task Description: -----------------------
+Design then implement a Java program that remove the 1st three
+occurrences of the character ‘m’ (capital or small) from string
+then print the resulting string on the screen.
+-----------------------------------------------------------------
+*/
+
+
 package Lab3;
 
 import java.util.Scanner;

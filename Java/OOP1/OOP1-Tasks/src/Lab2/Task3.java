@@ -1,3 +1,10 @@
+/*
+------------------------- Task Description: -------------------------
+Write a Java program that compares between three input string names
+by displaying the longest string.
+---------------------------------------------------------------------
+*/
+
 package Lab2;
 
 import java.util.Scanner;

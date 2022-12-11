@@ -1,3 +1,9 @@
+/*
+---------------------- Task Description: ----------------------
+Write a program that converts a Fahrenheit degree to Celsius.
+---------------------------------------------------------------
+ */
+
 package Lab1;
 
 import java.util.Scanner;

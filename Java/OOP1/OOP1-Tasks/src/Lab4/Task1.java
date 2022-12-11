@@ -1,3 +1,21 @@
+/*
+------------------------- Task Description: -------------------------
+Write a program that calculate and classify the rainfall average
+for 4 weeks.
+    - Firstly, read the rainfall rates for each day in the 4 weeks and
+    store them in a 2-dimensional array [4][7].
+
+    - Write a method getClassification() to get the classification. The method should receive
+    the rainfall average for a week from the main, and print the classification for that week:
+    High, Medium or Low; based on the received average.
+    Rainfall average Classification
+
+        > High:     average >= 6
+        > Medium:   6 > average > 3
+        > Low:      average < = 3
+---------------------------------------------------------------------
+*/
+
 package Lab4;
 
 import java.util.Scanner;

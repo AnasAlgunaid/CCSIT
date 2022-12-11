@@ -1,3 +1,14 @@
+/*
+---------------------- Task Description: ----------------------
+Write a Java program that takes three numbers as input
+then calculates and prints the average of the numbers and
+display the max and min number.
+
+Note: If any input number is negative then the system
+should display proper message and ask the user to try again.
+---------------------------------------------------------------
+*/
+
 package Lab2;
 
 import java.util.Scanner;

@@ -1,3 +1,10 @@
+/*
+------------------------- Task Description: -------------------------
+Write a Java program to count Words in a String – Counts the number
+of individual words in a string.
+---------------------------------------------------------------------
+*/
+
 package Lab3;
 
 import java.util.Scanner;

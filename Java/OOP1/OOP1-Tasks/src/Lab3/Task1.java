@@ -1,3 +1,11 @@
+/*
+------------------------- Task Description: -------------------------
+Write a program that prompts the user to enter the number of students
+and each student’s name and score, and finally displays the student
+with the highest score.
+---------------------------------------------------------------------
+*/
+
 package Lab3;
 
 import java.util.Scanner;

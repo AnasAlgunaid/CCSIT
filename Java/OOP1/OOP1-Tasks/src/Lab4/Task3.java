@@ -1,3 +1,13 @@
+/*
+------------------------- Task Description: -------------------------
+Write a java method deleteChar(), which deletes any occurrence in
+the first argument “str1” of the single character which is the second
+argument “c”.
+
+Assume the method signature is: void deleteChar(String str1, char c);
+---------------------------------------------------------------------
+*/
+
 package Lab4;
 
 import java.util.Scanner;

@@ -1,11 +1,15 @@
-/* Write a method that returns the union of two array lists of integers using the following
-header:
-public static ArrayList<Integer> union ( ArrayList<Integer> list1,
-ArrayList<Integer> list2)
-For example, the union of two array lists {2, 3, 1, 5} and {3, 4, 6} is {2, 3, 1, 5, 3, 4, 6}.
-Write a test program that prompts the user to enter two lists, each with five integers, and
-displays their union. The numbers are separated by exactly one space in the output. */
+/*
+------------------------- Task Description: -------------------------
+Write a method that returns the union of two array lists of integers
+using the following header:
+public static ArrayList<Integer> union ( ArrayList<Integer> list1, ArrayList<Integer> list2)
 
+For example, the union of two array lists {2, 3, 1, 5} and {3, 4, 6}
+is {2, 3, 1, 5, 3, 4, 6}. Write a test program that prompts the user
+to enter two lists, each with five integers, and displays their union.
+The numbers are separated by exactly one space in the output.
+---------------------------------------------------------------------
+*/
 
 package Lab11;
 

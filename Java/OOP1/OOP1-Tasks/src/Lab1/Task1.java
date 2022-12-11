@@ -1,3 +1,10 @@
+/*
+------------------- Task Description: -------------------
+Write a Java program that takes the birth year from the
+user and prints her/his age.
+---------------------------------------------------------
+ */
+
 package Lab1;
 
 import java.time.YearMonth;

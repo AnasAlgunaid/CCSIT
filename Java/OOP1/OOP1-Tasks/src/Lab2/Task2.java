@@ -1,3 +1,13 @@
+/*
+------------------------- Task Description: -------------------------
+Write a Java program using SWITCH statement, that takes a month
+value as input and  display its corresponding name and number of days.
+
+Note: The system should check that the month should not
+be greater than 12.
+---------------------------------------------------------------------
+*/
+
 package Lab2;
 
 import java.util.Scanner;
